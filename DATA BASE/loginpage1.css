@@ -1,0 +1,29 @@
+fieldset
+{
+	background-image:url("cafe_img.jpg");
+	background-size:cover;	
+	transform:translate(0%,-10%);
+}
+body
+{
+	background-image:url("cafe_img.jpg");
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+	font-family: 'Open Sans', sans-serif !important;
+	display:middle;
+}
+h2{
+	color:#fffff;
+	position:middle;
+}
+.main{
+    width: 45%;
+    margin: 45px auto;
+    background:rgba(255, 255, 255, 0.88);
+    padding: 30px 30px;
+}
+
+
